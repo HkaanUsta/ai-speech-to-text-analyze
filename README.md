@@ -140,7 +140,3 @@ This project is a web application that analyzes a child’s reading performance 
     - AssemblyAI: $0.02
     - OpenAI: $0.03
 
-## Contact
-
-For any questions or suggestions, please contact `your-email@example.com`.
-
